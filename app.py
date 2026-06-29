@@ -227,14 +227,9 @@ def load_data():
     base = os.path.dirname(os.path.abspath(__file__))
     m = pd.read_csv(os.path.join(base, "data", "matches.csv"))
     d = pd.read_csv(os.path.join(base, "data", "deliveries.csv"))
-
-    # Normalize headers from the CSV files (some contain trailing whitespace/newlines)
-    m.columns = [col.strip() for col in m.columns]
-    d.columns = [col.strip() for col in d.columns]
-
-    m['Winning_team'] = m['Winning_team'].fillna('').astype(str).str.strip()
-    m['Team1']        = m['Team1'].fillna('').astype(str).str.strip()
-    m['Team2']        = m['Team2'].fillna('').astype(str).str.strip()
+    m['Winning_team'] = m['Winning_team'].str.strip()
+    m['Team1']        = m['Team1'].str.strip()
+    m['Team2']        = m['Team2'].str.strip()
     d['total_runs']   = d['runs_of_bat'] + d['extras']
     return m, d
 
@@ -445,8 +440,8 @@ elif page == "🏆 Team Analysis":
         st.plotly_chart(fig, use_container_width=True)
 
     section("📋 Full Team Stats Table")
-    st.dataframe(df.style.background_gradient(cmap='YlOrRd', subset=['Wins', 'Win %'])
-                 .format({'Win %': '{:.1f}%'}), use_container_width=True)
+    df['Win %'] = df['Win %'].astype(str) + '%'
+    st.dataframe(df, use_container_width=True)
 
 # ══════════════════════════════════════════════════════════════════════════════
 # PLAYER ANALYSIS
@@ -668,8 +663,7 @@ elif page == "📅 Season Analysis":
     section("📋 Player of the Match Leaderboard")
     potm = matches['Player_of_match'].value_counts().head(10).reset_index()
     potm.columns = ['Player', 'Awards']
-    st.dataframe(potm.style.background_gradient(cmap='YlOrRd', subset=['Awards']),
-                 use_container_width=True)
+    st.dataframe(potm, use_container_width=True)
 
 # ══════════════════════════════════════════════════════════════════════════════
 # TOSS ANALYSIS
@@ -748,9 +742,7 @@ elif page == "💯 Highest Scores":
 
     with col2:
         section("📋 Top 20 Scores Table")
-        st.dataframe(scores[['Player','Runs']].head(20)
-                     .style.background_gradient(cmap='YlOrRd', subset=['Runs']),
-                     use_container_width=True)
+        st.dataframe(scores[['Player','Runs']].head(20), use_container_width=True)
 
 # ══════════════════════════════════════════════════════════════════════════════
 # TOP PARTNERSHIPS
@@ -782,9 +774,7 @@ elif page == "🤝 Top Partnerships":
 
     with col2:
         section("📋 Top Innings Table")
-        st.dataframe(team_innings[['Team','Innings','Runs']]
-                     .style.background_gradient(cmap='YlOrRd', subset=['Runs']),
-                     use_container_width=True)
+        st.dataframe(team_innings[['Team','Innings','Runs']], use_container_width=True)
 
     section("📊 Average Runs by Team per Innings")
     avg_runs = (deliveries.groupby(['match_id','innings','batting_team'])['runs_of_bat']
