@@ -1,0 +1,75 @@
+Match_no,Date,Team1,Team2,Venue,Winning_team,Player_of_match,Player_of_match_total_impact,Top_scorer,Top_scorer_runs
+1st Match ,28-03-2026,SRH,RCB,"M Chinnaswamy Stadium, Bengaluru",RCB ,Jacob Duffy,123.64,Ishan Kishan,80
+2nd Match ,29-03-2026,KKR,MI,"Wankhede Stadium, Mumbai",MI ,Shardul Thakur,100.88,Ryan Rickelton,81
+3rd Match ,30-03-2026,CSK,RR,"Barsapara Cricket Stadium, Guwahati",RR ,Nandre Burger,71.05,Vaibhav Sooryavanshi,52
+4th Match ,31-03-2026,GT,PBKS,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",PBKS ,Cooper Connolly,87.23,Cooper Connolly,72
+5th Match ,01-04-2026,LSG,DC,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",DC ,Sameer Rizvi,88.41,Sameer Rizvi,70
+6th Match ,02-04-2026,SRH,KKR,"Eden Gardens, Kolkata",SRH ,Nitish Kumar Reddy,60.11,Angkrish Raghuvanshi,52
+7th Match ,03-04-2026,CSK,PBKS,"MA Chidambaram Stadium, Chepauk, Chennai",PBKS ,Priyansh Arya,80.61,Ayush Mhatre,73
+8th Match ,04-04-2026,MI,DC,"Arun Jaitley Stadium, Delhi",DC ,Sameer Rizvi,102.26,Sameer Rizvi,90
+9th Match ,04-04-2026,RR,GT,"Narendra Modi Stadium, Ahmedabad",RR ,Ravi Bishnoi,109.67,Dhruv Jurel,75
+10th Match ,05-04-2026,SRH,LSG,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",LSG ,Mohammed Shami,104.16,Rishabh Pant,68
+11th Match ,05-04-2026,RCB,CSK,"M Chinnaswamy Stadium, Bengaluru",RCB ,Tim David,79.52,Tim David,70
+12th Match ,06-04-2026,KKR,PBKS,"Eden Gardens, Kolkata",No result,Xavier Bartlett,34.82,Ajinkya Rahane,8
+13th Match ,07-04-2026,RR,MI,"Barsapara Cricket Stadium, Guwahati",RR ,Yashasvi Jaiswal,79.12,Yashasvi Jaiswal,77
+14th Match ,08-04-2026,GT,DC,"Arun Jaitley Stadium, Delhi",GT ,Rashid Khan,100.68,KL Rahul,92
+15th Match ,09-04-2026,KKR,LSG,"Eden Gardens, Kolkata",LSG ,Mukul Choudhary,84.33,Mukul Choudhary,54
+16th Match ,10-04-2026,RCB,RR,"Barsapara Cricket Stadium, Guwahati",RR ,Vaibhav Sooryavanshi,147.72,Dhruv Jurel,81
+17th Match ,11-04-2026,SRH,PBKS,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",PBKS ,Priyansh Arya,88.6,Abhishek Sharma,74
+18th Match ,11-04-2026,CSK,DC,"MA Chidambaram Stadium, Chepauk, Chennai",CSK ,Sanju Samson,150.93,Sanju Samson,115
+19th Match ,12-04-2026,LSG,GT,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",GT ,Prasidh Krishna,91.54,Jos Buttler,60
+20th Match ,12-04-2026,RCB,MI,"Wankhede Stadium, Mumbai",RCB ,Phil Salt,98.97,Phil Salt,78
+21st Match ,13-04-2026,SRH,RR,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",SRH ,Ishan Kishan,135.76,Ishan Kishan,91
+22nd Match ,14-04-2026,CSK,KKR,"MA Chidambaram Stadium, Chepauk, Chennai",CSK ,Ayush Mhatre,58.5,Sanju Samson,48
+23rd Match ,15-04-2026,LSG,RCB,"M Chinnaswamy Stadium, Bengaluru",RCB ,Rasikh Salam,66.14,Virat Kohli,49
+24th Match ,16-04-2026,MI,PBKS,"Wankhede Stadium, Mumbai",PBKS ,Arshdeep Singh,125.55,Quinton de Kock,112
+25th Match ,17-04-2026,KKR,GT,"Narendra Modi Stadium, Ahmedabad",GT ,Shubman Gill,110.21,Shubman Gill,86
+26th Match ,18-04-2026,RCB,DC,"M Chinnaswamy Stadium, Bengaluru",DC ,Axar Patel,77.3,Phil Salt,63
+27th Match ,18-04-2026,SRH,CSK,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",SRH ,Abhishek Sharma,89.55,Abhishek Sharma,59
+28th Match ,19-04-2026,RR,KKR,"Eden Gardens, Kolkata",KKR ,Varun Chakravarthy,101.65,Rinku Singh,53
+29th Match ,19-04-2026,PBKS,LSG,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",PBKS ,Priyansh Arya,123.34,Priyansh Arya,93
+30th Match ,20-04-2026,MI,GT,"Narendra Modi Stadium, Ahmedabad",MI ,Tilak Varma,178.73,Tilak Varma,101
+31st Match ,21-04-2026,SRH,DC,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",SRH ,Abhishek Sharma,130.62,Abhishek Sharma,135
+32nd Match ,22-04-2026,RR,LSG,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",RR ,Ravindra Jadeja,77.83,Mitchell Marsh,55
+33rd Match ,23-04-2026,CSK,MI,"Wankhede Stadium, Mumbai",CSK ,Sanju Samson,151.72,Sanju Samson,101
+34th Match ,24-04-2026,GT,RCB,"M Chinnaswamy Stadium, Bengaluru",RCB ,Virat Kohli,85.89,Sai Sudharsan,100
+35th Match ,25-04-2026,DC,PBKS,"Arun Jaitley Stadium, Delhi",PBKS ,KL Rahul,117.19,KL Rahul,152
+36th Match ,25-04-2026,RR,SRH,"Sawai Mansingh Stadium, Jaipur",SRH ,Ishan Kishan,97.02,Vaibhav Sooryavanshi,103
+37th Match ,26-04-2026,CSK,GT,"MA Chidambaram Stadium, Chepauk, Chennai",GT ,Sai Sudharsan,88.56,Sai Sudharsan,87
+38th Match ,26-04-2026,KKR,LSG,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",KKR(Won On Super Over),Rinku Singh,135.51,Rinku Singh,83
+39th Match ,27-04-2026,DC,RCB,"Arun Jaitley Stadium, Delhi",RCB ,Josh Hazlewood,90.09,Devdutt Padikkal,34
+40th Match ,28-04-2026,PBKS,RR,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",RR ,Yash Raj Punja,64.57,Marcus Stoinis,62
+41st Match ,29-04-2026,MI,SRH,"Wankhede Stadium, Mumbai",SRH ,Travis Head,100.06,Ryan Rickelton,123
+42nd Match ,30-04-2026,RCB,GT,"Narendra Modi Stadium, Ahmedabad",GT ,Rashid Khan,63.8,Shubman Gill,43
+43rd Match ,01-05-2026,RR,DC,"Sawai Mansingh Stadium, Jaipur",DC ,Mitchell Starc,92.89,Riyan Parag,90
+44th Match ,02-05-2026,MI,CSK,"MA Chidambaram Stadium, Chepauk, Chennai",CSK ,Noor Ahmad,70.95,Ruturaj Gaikwad,67
+45th Match ,03-05-2026,SRH,KKR,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",KKR ,Varun Chakravarthy,65.7,Travis Head,61
+46th Match ,03-05-2026,PBKS,GT,"Narendra Modi Stadium, Ahmedabad",GT ,Jason Holder,80.21,Suryansh Shedge,57
+47th Match ,04-05-2026,LSG,MI,"Wankhede Stadium, Mumbai",MI ,Ryan Rickelton,118.62,Rohit Sharma,84
+48th Match ,05-05-2026,DC,CSK,"Arun Jaitley Stadium, Delhi",CSK ,Sanju Samson,105.96,Sanju Samson,87
+49th Match ,06-05-2026,SRH,PBKS,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",SRH ,Nitish Kumar Reddy,63.73,Cooper Connolly,107
+50th Match ,07-05-2026,LSG,RCB,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",LSG ,Mitchell Marsh,138.35,Mitchell Marsh,111
+51st Match ,08-05-2026,DC,KKR,"Arun Jaitley Stadium, Delhi",KKR ,Finn Allen,116.97,Finn Allen,100
+52nd Match ,09-05-2026,GT,RR,"Sawai Mansingh Stadium, Jaipur",GT ,Shubman Gill,87.99,Shubman Gill,84
+53rd Match ,10-05-2026,LSG,CSK,"MA Chidambaram Stadium, Chepauk, Chennai",CSK ,Urvil Patel,100.39,Josh Inglis,85
+54th Match ,10-05-2026,MI,RCB,"Shaheed Veer Narayan Singh International Stadium, Raipur",RCB ,Bhuvneshwar Kumar,144.46,Krunal Pandya,73
+55th Match ,11-05-2026,PBKS,DC,"Himachal Pradesh Cricket Association Stadium, Dharamsala",DC ,Madhav Tiwari,82.04,Shreyas Iyer,59
+56th Match ,12-05-2026,GT,SRH,"Narendra Modi Stadium, Ahmedabad",GT ,Sai Sudharsan,77.07,Sai Sudharsan,61
+57th Match ,13-05-2026,KKR,RCB,"Shaheed Veer Narayan Singh International Stadium, Raipur",RCB ,Virat Kohli,111.45,Virat Kohli,105
+58th Match ,14-05-2026,PBKS,MI,"Himachal Pradesh Cricket Association Stadium, Dharamsala",MI ,Tilak Varma,105.19,Tilak Varma,75
+59th Match ,15-05-2026,CSK,LSG,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",LSG ,Mitchell Marsh,127.88,Mitchell Marsh,90
+60th Match ,16-05-2026,KKR,GT,"Eden Gardens, Kolkata",KKR ,Finn Allen,129.22,Finn Allen,93
+61st Match ,17-05-2026,RCB,PBKS,"Himachal Pradesh Cricket Association Stadium, Dharamsala",RCB ,Bhuvneshwar Kumar,66.45,Venkatesh Iyer,73
+62nd Match ,17-05-2026,RR,DC,"Arun Jaitley Stadium, Delhi",DC ,Mitchell Starc,98.13,KL Rahul,56
+63rd Match ,18-05-2026,CSK,SRH,"MA Chidambaram Stadium, Chepauk, Chennai",SRH ,Pat Cummins,103.14,Ishan Kishan,70
+64th Match ,19-05-2026,LSG,RR,"Sawai Mansingh Stadium, Jaipur",RR ,Vaibhav Sooryavanshi,124.44,Mitchell Marsh,96
+65th Match ,20-05-2026,MI,KKR,"Eden Gardens, Kolkata",KKR ,Cameron Green,54.72,Manish Pandey,45
+66th Match ,21-05-2026,GT,CSK,"Narendra Modi Stadium, Ahmedabad",GT ,Mohammed Siraj,69.54,Sai Sudharsan,84
+67th Match ,22-05-2026,SRH,RCB,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",SRH ,Abhishek Sharma,94.53,Ishan Kishan,79
+68th Match ,23-05-2026,LSG,PBKS,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",PBKS ,Shreyas Iyer,96.42,Shreyas Iyer,101
+69th Match ,24-05-2026,RR,MI,"Wankhede Stadium, Mumbai",RR ,Jofra Archer,140.19,Suryakumar Yadav,60
+70th Match ,24-05-2026,DC,KKR,"Eden Gardens, Kolkata",DC ,Kuldeep Yadav,91.99,Ajinkya Rahane,63
+Qualifier 1 ,26-05-2026,RCB,GT,"Himachal Pradesh Cricket Association Stadium, Dharamsala",RCB ,Rajat Patidar,110.94,Rajat Patidar,93
+Eliminator ,27-05-2026,RR,SRH,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",RR ,Vaibhav Sooryavanshi,198.38,Vaibhav Sooryavanshi,97
+Qualifier 2 ,29-05-2026,RR,GT,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",GT ,Shubman Gill,109.62,Shubman Gill,104
+Final ,31-05-2026,GT,RCB,"Narendra Modi Stadium, Ahmedabad",RCB ,Virat Kohli,91.76,Virat Kohli,75
